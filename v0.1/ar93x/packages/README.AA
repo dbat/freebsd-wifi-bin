@@ -1,1 +1,6 @@
 packages repository
+
+to make full package of [packagename]
+- delete pkg-contents in pkgs/[packagename]/ (let it auto-generated)
+- delete [staging] directory of [packagename]
+  it might contain leftover from previous build
